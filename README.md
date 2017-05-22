@@ -1,5 +1,5 @@
 # free_the_forward
-A Chrome Browser Plugin that brings the Forward's website back to its socialist roots...
+A Chrome Browser Plugin that brings the Forward's website back to its socialist roots bypassing its newest paywall by pretending to be Google's search indexing bot.
 
 ### To Install
 
