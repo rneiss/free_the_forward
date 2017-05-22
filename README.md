@@ -13,7 +13,7 @@ A Chrome Browser Plugin that brings the Forward's website back to its socialist 
 
  5. Click the **Load unpacked extension** button.
 
- 6. Navigate to the folder you unziped your code to, and select it.
+ 6. Navigate to the folder you unzipped your code to, and select it.
 
  7. The **Free the Forward** extension should now be loaded
 
