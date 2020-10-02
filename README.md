@@ -1,4 +1,4 @@
-# free_the_forward
+# free the forward
 A Chrome Browser Plugin that brings the Forward's website back to its socialist roots bypassing its latest paywall. 
 
 Because... well...
